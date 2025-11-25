@@ -1,0 +1,5 @@
+{
+  "name": "ChronoMap: AI Historical Atlas",
+  "description": "An interactive, AI-powered historical world map. Explore history by sliding through time, visualizing empires, spheres of influence, and major events dynamically generated for any year.",
+  "requestFramePermissions": []
+}
